@@ -4,7 +4,7 @@
  * @return {boolean}
  */
 // Test Program - LeetCode 9
-// Trivial - How can you add an element to a string?
+// Trivial - How can you get the remainder of a division?
 var isPalindrome = function (x) {
     // initializations
     let rev = 0;
