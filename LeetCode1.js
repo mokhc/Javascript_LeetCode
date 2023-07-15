@@ -5,7 +5,7 @@
  * @return {number[]}
  */
 // Test Program - LeetCode 1
-// Trivial - How can you add value to a key in a map?
+// Trivial - How can you add value to an array?
 // Runtime ~ 99.30%
 var twoSum = function (nums, target) {
     // initialize
