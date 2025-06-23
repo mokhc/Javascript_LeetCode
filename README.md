@@ -14,4 +14,8 @@
 ### [Leetcode69](https://github.com/mokhc/Javascript_LeetCode/blob/main/LeetCode69.js)
 ### [Leetcode70](https://github.com/mokhc/Javascript_LeetCode/blob/main/LeetCode70.js)
 ### [Leetcode88](https://github.com/mokhc/Javascript_LeetCode/blob/main/LeetCode88.js)
+### [Leetcode118](https://github.com/mokhc/Javascript_LeetCode/blob/main/LeetCode118.js)
+### [Leetcode119](https://github.com/mokhc/Javascript_LeetCode/blob/main/LeetCode119.js)
 ### [Leetcode121](https://github.com/mokhc/Javascript_LeetCode/blob/main/LeetCode121.js)
+### [Leetcode125](https://github.com/mokhc/Javascript_LeetCode/blob/main/LeetCode125.js)
+### [Leetcode136](https://github.com/mokhc/Javascript_LeetCode/blob/main/LeetCode136.js)
